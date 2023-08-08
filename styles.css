@@ -1,7 +1,7 @@
 /* Write your CSS here! */
 
 html { 
-    background: url("https://img.freepik.com/premium-photo/texture-old-faded-vintage-paper-beige-retro-background-grunge-paper-with-spots-streaks_213524-157.jpg") no-repeat center center fixed; 
+    background: url(images/paperBackground.avif) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
