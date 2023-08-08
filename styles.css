@@ -16,3 +16,7 @@ h2 {font-size: 36px; text-align: center;}
 img {display:block; width: 65%; border-radius: 25px; margin-left: auto; margin-right: auto;}
 
 ul {list-style-position:inside ; margin-left: 40%; font-size: 18px;}
+
+a:link {color:blue}
+a:visited {color:blue}
+a:hover {color: purple}
