@@ -1,6 +1,18 @@
 /* Write your CSS here! */
-p {font-size: 18px;}
 
-h2 {font-size: 36px;}
+html { 
+    background: url("https://img.freepik.com/premium-photo/texture-old-faded-vintage-paper-beige-retro-background-grunge-paper-with-spots-streaks_213524-157.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
 
-img {width: 1000px; border-radius: 25px;}
+h1 {font-size: 48px; text-align: center;}
+p {font-size: 18px; text-align: center; margin-left: 15%; margin-right: 15%;}
+
+h2 {font-size: 36px; text-align: center;}
+
+img {display:block; width: 65%; border-radius: 25px; margin-left: auto; margin-right: auto;}
+
+ul {list-style-position:inside ; margin-left: 40%; font-size: 18px;}
