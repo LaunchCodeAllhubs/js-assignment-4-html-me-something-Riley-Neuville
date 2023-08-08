@@ -1,2 +1,6 @@
 /* Write your CSS here! */
-p {color:blue; font-size: 12px;}
+p {font-size: 18px;}
+
+h2 {font-size: 36px;}
+
+img {width: 1000px; border-radius: 25px;}
